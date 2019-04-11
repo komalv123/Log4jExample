@@ -28,7 +28,7 @@ public class MercuryTest
 		PropertyConfigurator.configure("E:\\Core Java\\Log4jExample\\log4j.properties");
 		System.setProperty("webdriver.chrome.driver","F:\\Selenium Setup\\Setup\\chromedriver_win32\\chromedriver.exe");
 		  driver=new ChromeDriver();
-		  logger.info("***** Browser get opened successfully");
+		  logger.info(" chro***** Browser get opened successfully");
 	}
   @Test(priority=2)
   public void enterApplUrl() 
