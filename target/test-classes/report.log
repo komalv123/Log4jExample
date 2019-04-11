@@ -1,0 +1,7 @@
+2019-02-20 21:22:21 INFO  MercuryTest:32 - Browser get opened successfully
+2019-02-20 21:22:21 INFO  MercuryTest:75 - Caputure the Screenshot
+2019-02-20 21:22:21 INFO  MercuryTest:37 - Open the URL
+2019-02-20 21:22:30 DEBUG MercuryTest:40 - New tourse Url open successfully
+2019-02-20 21:22:30 INFO  MercuryTest:75 - Caputure the Screenshot
+2019-02-20 21:22:31 INFO  MercuryTest:45 - In loginwithValidDetails method under @Test
+2019-02-20 21:22:58 INFO  MercuryTest:75 - Caputure the Screenshot
